@@ -11,8 +11,6 @@ namespace GraphApiAndEasyAuth.Controllers
         public ActionResult Index()
         {
             
-
-
             return View();
         }
 
